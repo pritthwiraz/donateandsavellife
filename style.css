@@ -1,0 +1,211 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+#header {
+    min-height: 600px;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.4)), url(images/donation3.jpg);
+    background-position: center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+#header h1 {
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 0;
+    font-size: 60px;
+
+}
+
+#header p {
+    font-size: 20px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 40px;
+
+}
+
+
+.donate-button {
+    border: none;
+    background: #FF5959;
+    color: white;
+    padding: 20px 40px;
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 5px;
+}
+
+.donate-button a {
+    text-decoration: none;
+    color: white;
+
+}
+
+#middle-section {
+    height: 620px;
+    background: #FFFFFF;
+}
+
+#middle-section h1 {
+    margin-top: 140px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 0;
+    font-size: 45px;
+    text-align: center;
+}
+
+#middle-section p {
+    font-size: 18px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: #808080;
+}
+
+#donation-button {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+}
+
+button {
+    padding-right: 40px;
+
+}
+
+.money-btn {
+    padding: 40px;
+    margin-left: 20px;
+    background: #FAFAFA;
+    border: none;
+    color: #707070;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.money-btn:nth-child(2) {
+    border: 2px solid #FF5959;
+    background: #FFEEEE;
+    color: #FF5959;
+}
+
+#amount-selection {
+    padding-bottom: 20px;
+}
+
+#donate-now {
+    margin-top: 20px;
+    text-align: center;
+    text-align: center;
+    margin-left: 434px;
+
+}
+
+#donation-plan {
+    height: 620px;
+    background: #FFFFFF;
+}
+
+#donation-plan h1 {
+    margin-top: 110px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 0;
+    font-size: 45px;
+    text-align: center;
+}
+
+#donation-plan p {
+    font-size: 18px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: #808080;
+}
+
+.plan-box {
+    display: flex;
+}
+
+#food {
+    width: 328px;
+    height: 328px;
+    background-color: #EDF5F6;
+    margin-right: 20px;
+
+}
+
+
+
+.shelter {
+    width: 328px;
+    height: 328px;
+    background-color: #FFEEEE;
+    margin-right: 20px;
+
+}
+
+.education {
+    width: 328px;
+    height: 328px;
+    background-color: #FFF4D6;
+    margin-right: 20px;
+}
+
+.newsletter {
+    height: 620px;
+    background: #FFFFFF;
+}
+
+.newsletter h1 {
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 0;
+    font-size: 45px;
+    text-align: center;
+}
+
+.newsletter p {
+    font-size: 18px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: #808080;
+}
+
+footer {
+    min-height: 170px;
+    background: #0B0D17;
+    text-align: center;
+
+}
+
+footer h2 {
+    padding-top: 40px;
+    color: #FF5959;
+    font-style: italic;
+
+}
+
+footer p {
+    color: #AEB0B7;
+
+}
